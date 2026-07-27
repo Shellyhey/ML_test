@@ -1,0 +1,7 @@
+
+  Obs                                  Series_title_2      avg_d
+-----  ----------------------------------------------  ---------
+    1  Total Industry                                  900000.00
+    2  Health Care and Social Assistance               218625.00
+    3  Retail Trade                                    208375.00
+    4  Professional Scientific and Technical Services  186625.00

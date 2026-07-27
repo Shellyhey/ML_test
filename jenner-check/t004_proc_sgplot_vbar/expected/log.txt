@@ -1,0 +1,17 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA business
+
+NOTE: Processing inline DATALINES (18 lines)
+
+NOTE: Read 18 rows from DATALINES.
+NOTE: Wrote business (18 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table question5_1_avg created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SGPLOT data=question5_1_avg
+
+NOTE: PROC SGPLOT output written to: ./ods_output/sgplot.svg

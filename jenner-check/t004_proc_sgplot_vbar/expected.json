@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-07-27T03:33:57.029726Z",
+  "_captured_run_id": "r_ff0dd1942a5e4df3a8db978459d4c7be",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 18 rows from DATALINES.",
+    "NOTE: Table question5_1_avg created.",
+    "NOTE: PROC SGPLOT data=question5_1_avg"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

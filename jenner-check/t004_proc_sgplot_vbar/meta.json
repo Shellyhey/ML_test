@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_proc_sgplot_vbar",
+  "source_file": "test.sas",
+  "source_blob_sha": "122aadc38e54704ed97db19e1e9d999864716fe9",
+  "source_commit": "6c1935d032f909c86dbbbc90c4aa1f20064b755a",
+  "notes": "Upstream question5_1 (test.sas L225-250): PROC SQL builds question5_1_avg (avg Total earnings by industry), then PROC SGPLOT VBAR renders the 'Bar Chart of average earnings for each industries'. Verbatim statements; runs on the synthesized 'business' dataset. Emits an ODS bar chart (PNG+SVG)."
+}

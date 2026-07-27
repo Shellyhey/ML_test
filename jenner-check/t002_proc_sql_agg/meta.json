@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_proc_sql_agg",
+  "source_file": "test.sas",
+  "source_blob_sha": "122aadc38e54704ed97db19e1e9d999864716fe9",
+  "source_commit": "6c1935d032f909c86dbbbc90c4aa1f20064b755a",
+  "notes": "Upstream question3_1 (test.sas L140-150): PROC SQL mean(Data_value) aggregate grouped by Series_title_2, ordered by the average desc. The verbatim SQL runs against a small synthesized 'business' dataset inlined at the top of script.sas so the script is self-contained (reproducible with a single script-only POST). A PROC PRINT shows the resulting table."
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_proc_summary",
+  "source_file": "test.sas",
+  "source_blob_sha": "122aadc38e54704ed97db19e1e9d999864716fe9",
+  "source_commit": "6c1935d032f909c86dbbbc90c4aa1f20064b755a",
+  "notes": "Upstream 'general data checking' step (test.sas L73-76): PROC SUMMARY NMISS MEAN MEDIAN MIN MAX PRINT, class Series_title_2, var Data_value. Runs against a small synthesized 'business' dataset matching the StatsNZ column shape."
+}
